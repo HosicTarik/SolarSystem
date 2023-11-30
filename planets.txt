@@ -3,5 +3,7 @@ Venus
 Earth
     - Lua
 Mars
+    - Phobos
+    - Deimos
 Jupiter
 Saturn
